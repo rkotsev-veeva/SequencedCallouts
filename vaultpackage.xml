@@ -1,0 +1,12 @@
+<vaultpackage xmlns="https://veevavault.com/">
+<name>PKG-entry-action-poc</name>
+<source>
+<vault></vault>
+<author>radoslav.kotsev@veeva.com</author>
+</source>
+<summary>Testing an Entry Action POC for SRD</summary>
+<description>This entry action has to start a workflow and change the state again</description>
+<javasdk>
+	<deployment_option>replace_all</deployment_option>
+</javasdk>
+</vaultpackage>
